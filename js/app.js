@@ -1,5 +1,5 @@
 // METAMASK CONNECTION
-const TIMEOUT = 1000;
+const TIMEOUT = 100;
 const COLLECTION_NAME = 'Madmummiez';
 let editions = [];
 let dots = 1;
